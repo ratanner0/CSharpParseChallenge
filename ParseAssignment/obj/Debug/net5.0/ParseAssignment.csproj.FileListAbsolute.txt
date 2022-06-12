@@ -1,0 +1,16 @@
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\bin\Debug\net5.0\ParseAssignment.exe
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\bin\Debug\net5.0\ParseAssignment.deps.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\bin\Debug\net5.0\ParseAssignment.runtimeconfig.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\bin\Debug\net5.0\ParseAssignment.runtimeconfig.dev.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\bin\Debug\net5.0\ParseAssignment.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\bin\Debug\net5.0\ParseAssignment.pdb
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\obj\Debug\net5.0\ParseAssignment.csproj.AssemblyReference.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\obj\Debug\net5.0\ParseAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\obj\Debug\net5.0\ParseAssignment.AssemblyInfoInputs.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\obj\Debug\net5.0\ParseAssignment.AssemblyInfo.cs
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\obj\Debug\net5.0\ParseAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\obj\Debug\net5.0\ParseAssignment.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\obj\Debug\net5.0\refint\ParseAssignment.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\obj\Debug\net5.0\ParseAssignment.pdb
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\obj\Debug\net5.0\ParseAssignment.genruntimeconfig.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\ParseAssignment\obj\Debug\net5.0\ref\ParseAssignment.dll
